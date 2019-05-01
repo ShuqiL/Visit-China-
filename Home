@@ -1,0 +1,42 @@
+<html>
+<head>
+ <title>Home page</title><!--this is my title for this page-->
+    <link rel="stylesheet" type="text/css" href="CSS.css"/><!--this will link to CSS-->
+    <body style="background-image:url('hangzhou.JPG');   background-position: center; background-attachment: fixed;background-size: cover; background-repeat: no-repeat;"><!--this is my home page back ground picture-->
+     
+	 <ul class="wri"><!--this is to link all of the page together-->
+        <li><a class="active" href="home.html">Home</a></li>
+        <li><a href="tours.html">Tours</a></li>
+        <li><a href="create my trip.html">Create my trip</a></li>
+        <li><a href="destinations.html">Destinations</a></li>
+        <li><a href="culture.html">Culture</a></li>
+        <li><a href="contact us.html">Contact us</a></li>
+     </ul> 
+
+<div class="hero-image"><!--this is a style of image and text-->
+    <div class="hero-text">
+    <h1 style="font-size:200px">China </h1>
+    <form action="https://www.youtube.com/embed/2ft1P9O_YGc"><!--external link-->
+    <input type="submit" value="visit china" /><!--button to a web page-->
+	</form>
+	<h1>Breathtaking Antiquity</h1><!--heading-->
+	<!--P for paragraph-->
+    <p>Its modern face is dazzling, but China is no one-trick pony. The world's oldest continuous civilisation isn't all smoked glass and brushed aluminium and while you won't be tripping over artefacts – three decades of round-the-clock development and rash town planning have taken their toll – rich seams of antiquity await. Serve it all up according to taste: collapsing sections of the Great Wall, temple-topped mountains, villages that time forgot, languorous water towns, sublime Buddhist grottoes and ancient desert forts. Pack a well-made pair of travelling shoes and remember the words of Laotzu: 'a journey of a thousand miles begins with a single step'.</p>
+    <h1>Stupendous Scenery</h1>
+    <p>Few countries do the Big Outdoors like the Middle Kingdom. China's landscapes span the range from alpha to omega: take your pick from the sublime sapphire lakes of Tibet or the impassive deserts of Inner Mongolia, island-hop in Hong Kong or bike between fairy-tale karst pinnacles around Yángshuò; swoon before the rice terraces of the south, take a selfie among the gorgeous yellow rapeseed of Wùyuán or hike the Great Wall as it meanders across mountain peaks; get lost in green forests of bamboo or, when your energy fails you, flake out on a distant beach and listen to the thud of falling coconuts.</p>  
+    <h1>Cuisine</h1>
+	<p>The Chinese live to eat and with 1.4 billion food-loving people to feed, coupled with vast geographic and cultural variations in a huge land, expect your tastebuds to be tantalised, tested and treated. Wolf down Peking duck in Běijīng, melt over a Chóngqìng hotpot or grab a seasoned ròujiāmó (shredded pork in a bun) before climbing Huá Shān. Gobble down a steaming bowl of Lánzhōu noodles in a Silk Road street market, raise the temperature with some searing Húnán fare or flag down the dim sum trolley down south. Follow your nose in China and you won't want to stop travelling.</p>
+    <h1>Diversity</h1>
+	<p>China is vast. Off-the-scale massive. A riveting jumble of wildly differing dialects and climatic and topographical extremes, it's like several different countries rolled into one. Take your pick from the tossed-salad ethnic mix of the southwest, the yak-butter-illuminated temples of Xiàhé, a journey along the dusty Silk Road, spending the night at Everest Base Camp or getting into your glad rags for a night on the Shànghǎi tiles. You're spoilt for choice: whether you’re an urban traveller, hiker, cyclist, explorer, backpacker, irrepressible museum-goer or faddish foodie, China’s diversity is second to none.</p>
+</div>
+
+<audio controls> <!--musice for the page-->
+  <source src="lianai.ogg" type="audio/ogg" >
+  <source src="lianai.mp3" type="audio/mpeg">
+  <source src="lianai.wav" type="audio/wav">
+</audio> 
+<p><cite>Lian Ai Pin Lu</cite> by Andy Hui and Evonne Hsu.</p><!--to defines the title of music-->
+</body>
+</head>
+
+
